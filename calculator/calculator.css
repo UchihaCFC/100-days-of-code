@@ -1,0 +1,33 @@
+[class^="num"], [class^="calc"], .spacer{
+  border: 1px solid #000;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  float: left;
+  width: 3em;
+  height: 3em;
+  margin: .2em;
+  text-align: center;
+}
+
+.row{
+  clear: both;
+}
+
+h2{
+  margin-left: 42%;
+}
+
+#calculator{
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+
+#result{
+  width: 13.5em;
+  margin: .2em;
+  float: left;
+  text-align: right;
+  border: 1px solid #000;
+}
